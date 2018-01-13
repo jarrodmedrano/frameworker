@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
@@ -16,8 +17,8 @@
     "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
-    "@storybook/react": "^3.3.6",
     "@storybook/addon-actions": "^3.3.6",
-    "@storybook/addon-links": "^3.3.6"
+    "@storybook/addon-links": "^3.3.6",
+    "@storybook/react": "^3.3.6"
   }
 }

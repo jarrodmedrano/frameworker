@@ -1,0 +1,24 @@
+{
+  "grid": {
+    "column": {
+      "myClass": "col-6",
+      "rows":
+        [
+          {
+            "button": {
+              "myType": "link",
+              "target": "http://www.google.com/",
+              "myClass": "burgers"
+            }
+          },
+          {
+            "button": {
+              "myType": "button",
+              "target": "http://www.google.com/",
+              "myClass": "cheese"
+            }
+          }
+        ]
+    }
+  }
+}
